@@ -1,0 +1,50 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <!-- .xml file translated words-->
+
+    <string name="app_name">Just Java</string>
+
+    <!--- the name for the user type .xml file-->
+    <string name="name">Name</string>
+
+    <!-- Header text for Toppings .xml file[CHAR LIMIT = 20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- Whipped Cream .xml file[CHAR LIMIT = 20] -->
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <!-- chocolate .xml file[CHAR LIMIT = 20] -->
+    <string name="chocolate">Chocolate</string>
+
+    <!-- Quantity .xml file[CHAR LIMIT = 20] -->
+    <string name="quantity">Quantity</string>
+
+    <!-- order button .xml file[CHAR LIMIT = 20] -->
+    <string name="order_button">order</string>
+
+    <!-- .java file translated words-->
+
+
+    <!-- createOrderSummary .java file[CHAR LIMIT = NONE] -->
+    <string name="thank_you">Thank you!</string>
+
+    <!-- Quantity .java file[CHAR LIMIT = NONE] -->
+    <string name="quantity1">Quantity : </string>
+
+    <!-- createOrderSummary .java file[CHAR LIMIT = NONE] -->
+    <string name="has_whipped_cream">Has whipped cream ? </string>
+
+    <!-- createOrderSummary .java file[CHAR LIMIT = NONE] -->
+    <string name="has_chocolate">Has chocolate ? </string>
+
+    <!-- createOrderSummary .java file[CHAR LIMIT = NONE] -->
+    <string name="total">Total</string>
+
+    <!-- name for the order summary. It will be shown in the format of : "Name: Amy" where
+        Amy is the user name. [ CHAR LIMIT = NONE]
+    -->
+    <!--
+   <string name="order_summary_name">Name: <xliff:g id="name" example="Amy">%</xliff:g> </string>
+    -->
+</resources>
